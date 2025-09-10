@@ -19,7 +19,8 @@
 }
 
 .reveal h4,
-.reveal h5 {
+.reveal h5,
+.reveal h6 {
   text-transform: none;
 }
 
