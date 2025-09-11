@@ -18,6 +18,14 @@
   padding: 0;   /* Set padding to 0 to remove any additional spacing */
 }
 
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  word-spacing: 0.25em;
+}
+
 .reveal h6 {
   margin: 0 0;
   opacity: 0.7;
